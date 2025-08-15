@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+duckduckgo-search
+langchain_community
+mem0ai
+livekit-agents[openai]~=1.2
+livekit-agents[google]~=1.2
+livekit-plugins-noise-cancellation~=0.2
